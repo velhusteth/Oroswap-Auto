@@ -1,0 +1,16 @@
+{
+  "name": "oroswap-bot",
+  "version": "1.0.0",
+  "description": "OROSWAP Bot - Wallet Keplr/Leap - Bactiar291",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "bactiar291",
+  "license": "MIT",
+  "dependencies": {
+    "@cosmjs/cosmwasm-stargate": "^0.33.1",
+    "@cosmjs/proto-signing": "^0.33.1",
+    "@cosmjs/stargate": "^0.33.1"
+  }
+}
