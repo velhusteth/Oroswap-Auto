@@ -1,10 +1,6 @@
-# TÔI KHUYÊN KHI LÀM BẤT KỲ TESTNET NÀO HÃY DÙNG WALLET MỚI, HIỂU CHƯA!!!!! CÓ LỖI THÌ BÁO
-
-Testnet mới: Oroswap 🏷 Phần thưởng: Đã xác nhận   Ví:  Keplr Network 
+Testnet: Oroswap Ví:  Keplr Network 
 
 Bot tự động để thực hiện swap và cung cấp thanh khoản trên mạng testnet Zigchain (ZIG ↔️ ORO) sử dụng ví Keplr hoặc Leap.
-
-📦 Repository: tại đây
 
 🚀 Tính năng
 
