@@ -11,9 +11,7 @@ Bot tự động để thực hiện swap và cung cấp thanh khoản trên m�
 
 📁 Cài đặt
 
-# Clone repository
-```git clone https://github.com/bactiar291/oroswap-testnet-bot.git```
-```cd oroswap-testnet-bot```
+# Tải repo về giải nén mở bằng VSC hoặc Cursor
 
 # Cài đặt các thư viện cần thiết
 ```npm install```
