@@ -29,7 +29,7 @@ Hãy dùng ví testnet!!!
 
 ▶️ Chạy Bot
 
-```npm start```
+```node menu.js```
 
 Bot sẽ thực hiện:
 
